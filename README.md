@@ -6,7 +6,7 @@ A játék leírása a dokumentacio.pdf file-ban található.
 
 a futtatásához el kell navigálni az out/production/nagyHaziProba és futtatni a `java Game` parancsot
 
-**A játék indítása előtt("Play" gomb) ki kell választani egy pályát!**
+**A játék indítása előtt ("Play" gomb) ki kell választani egy pályát!**
 
 ## ENGLISH:
 This is a project made during my 3rd semester at collage.
